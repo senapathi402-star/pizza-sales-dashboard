@@ -13,7 +13,8 @@ To analyze pizza sales data and identify revenue trends, top-performing products
 
 ## 📊 Dashboard Preview
 
-> *(Add your Tableau Public screenshot here)*
+<img width="1032" height="480" alt="image" src="https://github.com/user-attachments/assets/874a802d-793d-4f98-a618-2edf6f303590" />
+
 
 ---
 
