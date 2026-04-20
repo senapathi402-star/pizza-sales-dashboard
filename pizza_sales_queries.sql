@@ -1,7 +1,7 @@
 -- ============================================
 -- PIZZA SALES ANALYTICS
 -- Author: Senapathi Krishna Sai
--- Tools: MySQL | Tableau
+-- Tools: MySQL
 -- Dataset: 4 Tables - pizzas, pizza_types, orders, order_details
 -- ============================================
 
