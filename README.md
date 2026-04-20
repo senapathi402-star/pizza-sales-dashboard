@@ -17,9 +17,6 @@ Analyze Pizza Hut sales data using SQL to uncover customer ordering patterns, re
 
 [![Pizza Sales Dashboard](https://public.tableau.com/static/images/Pi/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1/1_rss.png)](https://public.tableau.com/views/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1)
 
-🔗 [Click here to explore the interactive dashboard](https://public.tableau.com/views/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1)
-
----
 
 ## 🗃️ Dataset Structure
 
