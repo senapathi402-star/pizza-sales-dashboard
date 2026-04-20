@@ -1,7 +1,9 @@
 # 🍕 Pizza Sales Analytics Dashboard
 
 > **Tools Used:** SQL | Tableau
-> **Dataset:** 48,000+ records | $817,000+ Revenue
+> **Dataset:** 48,000+ records | $817,860 Revenue
+
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1)**
 
 ---
 
@@ -13,18 +15,18 @@ To analyze pizza sales data and identify revenue trends, top-performing products
 
 ## 📊 Dashboard Preview
 
-<img width="1032" height="480" alt="image" src="https://github.com/user-attachments/assets/874a802d-793d-4f98-a618-2edf6f303590" />
-
+[![Pizza Sales Dashboard](https://public.tableau.com/static/images/Pi/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1/1_rss.png)](https://public.tableau.com/views/PizzaSalesAnalyticsDashboard_17766667725500/Dashboard1)
 
 ---
 
 ## 🔍 Key Insights
 
-- 💰 **Total Revenue:** $817,000+
+- 💰 **Total Revenue:** $817,860
 - 📦 **Total Orders:** 48,620
-- 🍕 **Top Category:** Classic pizzas contribute the highest revenue
-- 📅 **Peak Days:** Friday and Saturday evenings
-- 📉 **Lowest Sales:** Sunday mornings
+- 💵 **Average Order Value:** $16.82
+- 🍕 **Top Pizza:** Thai Chicken ($43,434)
+- 🏆 **Top Category:** Classic ($220,053)
+- ⏰ **Peak Hour:** 12 PM with 2,520 orders
 
 ---
 
